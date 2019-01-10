@@ -1,0 +1,29 @@
+Make sure the first line of your file has #!/usr/bin/env python.
+Make it executable - chmod +x <filename>.py.
+And run it as ./<filename>.py
+
+
+
+
+
+
+
+
+
+
+env setting
+source bin/activate  #cd directory
+
+
+
+
+
+
+
+
+
+
+
+
+django ccommand
+https://docs.djangoproject.com/en/2.1/intro/tutorial01/
